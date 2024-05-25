@@ -1,0 +1,17 @@
+D:\Prog\C#\ManagementSystem\ManagementSystem\bin\Release\employee.mdf
+D:\Prog\C#\ManagementSystem\ManagementSystem\bin\Release\employee_log.ldf
+D:\Prog\C#\ManagementSystem\ManagementSystem\bin\Release\ManagementSystem.exe.config
+D:\Prog\C#\ManagementSystem\ManagementSystem\bin\Release\ManagementSystem.exe
+D:\Prog\C#\ManagementSystem\ManagementSystem\bin\Release\ManagementSystem.pdb
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.csproj.AssemblyReference.cache
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.AddEmployee.resources
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.Dashboard.resources
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.Form1.resources
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.MainForm.resources
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.Properties.Resources.resources
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.RegisterForm.resources
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.Salary.resources
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.csproj.GenerateResource.cache
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.csproj.CoreCompileInputs.cache
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.exe
+D:\Prog\C#\ManagementSystem\ManagementSystem\obj\Release\ManagementSystem.pdb
